@@ -3,6 +3,8 @@ Mämmin Apostolit
 
 
 
-Nyt alkaa kakka. Uudestaan!
+Nyt alkaa taas uusi projekti!
 
-Woo
+Pidetään dokumentointi kunnossa jokaisella sprintillä sekä jokaisessa pushissa!
+
+-Juuso
