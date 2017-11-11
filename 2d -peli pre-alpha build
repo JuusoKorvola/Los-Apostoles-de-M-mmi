@@ -1,1 +1,13 @@
+Since the file is too large to upload to git, a link is provided below where you can access the game build. Unity 5.5.4p4 or newer is required
+https://developer.cloud.unity3d.com/share/-182OyypCf/
 
+Click link to gain access to the very first build.
+
+NOTE: this could be a pre-pre alpha build of the game, where basic mechanics and sprites are tested.
+
+Build notes:
+- Created a collidable world, with a movable character. 
+- Created collision boxes where character can jump on and from.
+- Created objects with a killzone feature
+        - Killzone returns the player to the start of the map. Goal is to avoid killzones and finish the game at the top 
+- Added a skybox to test out sprites.
